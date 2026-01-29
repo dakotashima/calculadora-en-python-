@@ -1,0 +1,13 @@
+numero1 = 15
+numero2 = 10
+
+suma = numero1 + numero2
+resta = numero1 - numero2
+multiplicacion = numero1 * numero2
+division = numero1 / numero2
+
+# Mostrar los resultados
+print(f"Suma: {suma}")
+print(f"Resta: {resta}")
+print(f"Multiplicación: {multiplicacion}")
+print(f"División: {division}")
